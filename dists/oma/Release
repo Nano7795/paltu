@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: oma repository
+Suite: oma
+Date: Wed, 03 Jul 2024 02:41:59 UTC
+Components: koro
+MD5Sum:
+ 64d70d719f53ec692360de32233165ee 981 koro/binary-all/Packages
+ e33691c3518427218d4edaf404b53846 632 koro/binary-all/Packages.xz
+ 14a4ea38de184a62bb22149fd67764b3 173 koro/Contents-all
+ 7bc48a26da662a92db3cd80f90338492 120 koro/Contents-all.xz
+SHA1:
+ b7144943df637fb9c9a0f379e59c5967d5051c13 981 koro/binary-all/Packages
+ 91726e258a7f071664a09f34aab3dcfd0a41068d 632 koro/binary-all/Packages.xz
+ f0a233c87ab737b7ac9bc99193049bae06e46d4d 173 koro/Contents-all
+ ee22eb70577ffa09f41af4781bd65711ef1b3889 120 koro/Contents-all.xz
+SHA256:
+ 3d07cc58351fd8f9167d9abeaae8b7ef0478f2e3c2114c36ec9bcf3d74ee163a 981 koro/binary-all/Packages
+ 5beff3d53d5b62807d8a54184e57817564a8a5befc8ee77a553f321b1fca7968 632 koro/binary-all/Packages.xz
+ 133389c28cf0c1f83e95ea9ddba203e5c264ccf2b6e29e2cdbba575b3c180c58 173 koro/Contents-all
+ d21efba1ea76651615d312d46cd46a3157de48970cb4aff2950eebd2d4334dd6 120 koro/Contents-all.xz
+SHA512:
+ 53171f9e1811a0eca448c0e66d60981aba04631f244ac06b9cdc69648747d2e518491886154476a9a8b233f32a88c432c9a3318e91243078cc6232605c7ecb63 981 koro/binary-all/Packages
+ eb6ae7f6da84fdcb7832f7cd79dfd832bfcd80485faf95569070cf64486ec06a5df8aa606c59fa5f524157e6ec0693a7e31d185b164ec181a91e845830414c3b 632 koro/binary-all/Packages.xz
+ 58bd053edda3742b2ad8b63e47140ecd2211b19415b4368b9f6a9024abf73a78a62576ea997e3b279892b0454d0a829ef46d490f4ca6487f701e768f00db7179 173 koro/Contents-all
+ f638701a8b5cb0b748fd462948b1972371d35942f08d97b8bf60b5c913785ebfc7cd712bbe7e438b92bffd4cea776ea57359a25f8ceea6d8df1295cd191d0bb2 120 koro/Contents-all.xz

@@ -1,0 +1,28 @@
+Package: test
+Installed-Size: 25
+Maintainer: Kalua
+Architecture: all
+Depends: python
+Description: This tool is only for testing
+Version: 0.1
+Filename: dists/oma/koro/binary-all/test.deb
+Size: 872
+MD5Sum: f5085cc55edd379edb8ad7185ff0d771
+SHA1: 454171f8289e8a51851e63c1cfa2a1df5aff8bba
+SHA256: 091af91b567428ad4752d554083bc98250e28c1902cf2f81fd6cd4d0eeaae25f
+SHA512: 15b5c2b2e53f77aacfae6f19d8e04b8a43fb39ebe578274103e73580d5418fd2004cf1bd2112d46914e19031d95368f808af537f5d891aaebf3eecbf9ee84efb
+
+Package: Test1
+Installed-Size: 25
+Maintainer: Kalua
+Architecture: all
+Depends: python
+Description: test purposes only
+Version: 0.1
+Filename: dists/oma/koro/binary-all/test1.deb
+Size: 864
+MD5Sum: 99b0d64c2871d9b168ebb65d8d248035
+SHA1: c2e98659e3c3e62ab04a6af00a46c98df2830336
+SHA256: 1eef3a81fe77c9c2c26a04066d2fa124e9d335179df875835325de6cb1bb5d1d
+SHA512: 0b097d964389166f701b1fb4666290429ba7aa7eaddae8600012121801876c415abfe0ee823cd3665608fa72eb81cdb6f75591123e07240b45f28067294542ee
+
